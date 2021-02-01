@@ -5,10 +5,10 @@
   { "driver_code": "DRV00237DM", "driver_name": "Chuan Seng Soon", "sbu": "Choon Hin", "deviceId": 826360 }
 ],
   "SalesOrders": [
-  { "salesorder": 1, "date": "xx.xx.xx", "driver_code": "DRV00235DM", "item": "Cylinder", "price": 37 },
-  { "salesorder": 2, "date": "xx.xx.xx", "driver_code": "DRV00235DM", "item": "Cylinder", "price": 37 },
-  { "salesorder": 3, "date": "xx.xx.xx", "driver_code": "DRV00236DM", "item": "Cylinder", "price": 35 },
-  { "salesorder": 4, "date": "xx.xx.xx", "driver_code": "DRV00235DM", "item": "Cylinder", "price": 37 }
+  { "salesorder": "SO01", "date": "xx.xx.xx", "driver_code": "DRV00235DM", "item": "Cylinder", "price": 37 },
+  { "salesorder": "SO02", "date": "xx.xx.xx", "driver_code": "DRV00235DM", "item": "Cylinder", "price": 37 },
+  { "salesorder": "SO03", "date": "xx.xx.xx", "driver_code": "DRV00236DM", "item": "Cylinder", "price": 35 },
+  { "salesorder": "SO04", "date": "xx.xx.xx", "driver_code": "DRV00235DM", "item": "Cylinder", "price": 37 }
  ],
   "Address": [
   { "address_full": "24 Ang Mo Kio Ave 5, #04-21, S780760" },
