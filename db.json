@@ -1,12 +1,13 @@
 {
   "drivers": [
-  { "id": 1, "Driver": "DRV01", "deviceId": 826358 },
-  { "id": 2, "Driver": "DRV02", "deviceId": 826359 },
-  { "id": 3, "Driver": "DRV03", "deviceId": 826360 }
+  { "driver_code": "DRV00235DM", "driver_name": "Lim Ah Teck", "sbu": "SBK" "device_id": 826358 },
+  { "driver_code": "DRV00236DM": "driver_name": "Lim Ah Seng", "sbu": "UE" "deviceId": 826359 },
+  { "driver_code": "DRV00237DM", "driver_name": "Chuan Seng Soon", "sbu": "Choon Hin" "deviceId": 826360 }
 ],
-  "comments": [
-  { "id": 1, "body": "some comment", "postId": 1 },
-  { "id": 2, "body": "some comment", "postId": 1 },
-  { "id": 3, "body": "some comment", "postId": 1 } 
+  "SalesOrders": [
+  { "order_id": 1, "date": "xx.xx.xx", "driver_code": "DRV00235DM", "item": "Cylinder", "price": 37 },
+  { "order_id": 2, "date": "xx.xx.xx", "driver_code": "DRV00235DM", "item": "Cylinder", "price": 37 },
+  { "order_id": 3, "date": "xx.xx.xx", "driver_code": "DRV00236DM", "item": "Cylinder", "price": 35 },
+  { "order_id": 4, "date": "xx.xx.xx", "driver_code": "DRV00235DM", "item": "Cylinder", "price": 37 }
  ]
 }
