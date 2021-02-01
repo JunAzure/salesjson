@@ -1,7 +1,7 @@
 {
   "drivers": [
   { "driver_code": "DRV00235DM", "driver_name": "Lim Ah Teck", "sbu": "SBK" "device_id": 826358 },
-  { "driver_code": "DRV00236DM": "driver_name": "Lim Ah Seng", "sbu": "UE" "deviceId": 826359 },
+  { "driver_code": "DRV00236DM", "driver_name": "Lim Ah Seng", "sbu": "UE" "deviceId": 826359 },
   { "driver_code": "DRV00237DM", "driver_name": "Chuan Seng Soon", "sbu": "Choon Hin" "deviceId": 826360 }
 ],
   "SalesOrders": [
