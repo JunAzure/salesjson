@@ -8,6 +8,6 @@
   { "salesorder": "SO01", "date": "xx.xx.xx", "driver_code": "DRV00235DM", "item": "Cylinder", "price": 37, "address": "24 Ang Mo Kio Ave 5, #04-21, S780760" },
   { "salesorder": "SO02", "date": "xx.xx.xx", "driver_code": "DRV00235DM", "item": "Cylinder", "price": 37, "address": "104, Jurong Island St.81, #04-39, S783104" },
   { "salesorder": "SO03", "date": "xx.xx.xx", "driver_code": "DRV00236DM", "item": "Cylinder", "price": 35, "address": "Block 140 Bedok Reservoir Road, #02-10, S470140" },
-  { "salesorder": "SO04", "date": "xx.xx.xx", "driver_code": "DRV00235DM", "item": "Cylinder", "price": 37, "address:": "Block 21 Tampines St, #04-10, S425021" }
+  { "salesorder": "SO04", "date": "xx.xx.xx", "driver_code": "DRV00235DM", "item": "Cylinder", "price": 37, "address": "Block 21 Tampines St, #04-10, S425021" }
  ]
 }
